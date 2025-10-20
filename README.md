@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00FFFF">K. Gayatri</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#00FFFF">Gayatri</span></h1>
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Software+Developer+|+AI%2FML+Enthusiast;Passionate+about+AI+%26+Web+Innovation;Building+AI+Powered+Projects+🚀" />
 </h2>
